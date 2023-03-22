@@ -58,7 +58,7 @@
 - Check Meta, noindex and some other SEO
 - Check OG and OG texts validation
 
-#Web Definition of Start:#
+# Web Definition of Start:
 - All story/task is done (all acceptance criteria is delivered)
 - Code review is done
 - Back end is done
